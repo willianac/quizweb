@@ -1,0 +1,23 @@
+[
+    {
+        "pergunta": "Quantos planetas tem o sistema solar?",
+        "respostas": [
+            {
+                "texto": "8 planetas",
+                "isCorreta": true
+            },
+            {
+                "texto": "7 planetas",
+                "isCorreta": false
+            },
+            {
+                "texto": "6 planetas",
+                "isCorreta": false
+            },
+            {
+                "texto": "9 planetas",
+                "isCorreta": false
+            }
+        ]
+    }
+]
